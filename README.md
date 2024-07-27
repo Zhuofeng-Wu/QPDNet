@@ -2,7 +2,7 @@
 
 Source code and synthetic dataset for our paper:
 
-[Disparity Estimation Using a Quad-Pixel Sensor](https://arxiv.org/pdf/2109.07547.pdf)<br/>
+[Disparity Estimation Using a Quad-Pixel Sensor]()<br/>
 BMVC 2024<br/>
 Zhuofeng Wu， Doehyung Lee， Zihua Liu，Kazunori Yoshizaki， Yusuke Monno， Masatoshi Okutomi<br/>
 
@@ -52,4 +52,12 @@ python evaluate_quad.py --restore_ckpt "checkpoint path" --mixed_precision  --sa
 ```Shell
 python evaluate_quad.py --restore_ckpt "checkpoint path" --mixed_precision  --save_result True --input_image_num 2 --datasets_path "testing data path"
 ```
+
+## Acknowledgement
+
+This project uses the following open-source projects and data. Please consider citing them if you use related functionalities.
+
+
+* [RAFT-stereo (Lipson et al., 3DV 2021)](https://github.com/princeton-vl/RAFT-Stereo)
+* [Abuolaim et al., ICCV 2021](https://github.com/Abdullah-Abuolaim/recurrent-defocus-deblurring-synth-dual-pixel)
 
