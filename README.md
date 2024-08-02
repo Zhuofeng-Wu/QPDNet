@@ -4,7 +4,7 @@ Source code and synthetic dataset for our paper:
 
 [Disparity Estimation Using a Quad-Pixel Sensor]()<br/>
 BMVC 2024<br/>
-Zhuofeng Wu， Doehyung Lee， Zihua Liu，Kazunori Yoshizaki， Yusuke Monno， Masatoshi Okutomi<br/>
+Zhuofeng Wu, Doehyung Lee, Zihua Liu, Kazunori Yoshizaki, Yusuke Monno, Masatoshi Okutomi<br/>
 
 ```
 @inproceedings{wu2024qpdnet,
