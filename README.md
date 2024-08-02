@@ -9,7 +9,7 @@ Zhuofeng Wu, Doehyung Lee, Zihua Liu, Kazunori Yoshizaki, Yusuke Monno, Masatosh
 ```
 @inproceedings{wu2024qpdnet,
   title={Disparity Estimation Using a Quad-Pixel Sensor},
-  author={Zhuofeng Wu， Doehyung Lee， Zihua Liu，Kazunori Yoshizaki， Yusuke Monno， Masatoshi Okutomi},
+  author={Zhuofeng Wu, Doehyung Lee, Zihua Liu, Kazunori Yoshizaki, Yusuke Monno, Masatoshi Okutomi},
   booktitle={The 35th British Machine Vision Conference (BMVC)},
   year={2024}
 }
