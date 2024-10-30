@@ -42,7 +42,7 @@ python train_quad.py --batch_size 4  --spatial_scale -0.2 0.4 --saturation_range
 
 ## Evaluation
 ### Checkpoints
-Pretrained models (full Quad-pixel data) can be downloaded from [google drive](https://drive.google.com/file/d/1KGXLY_tZAyM9-e7jDV53Fu3e2m4knMNO/view?usp=drive_link).
+Pretrained models (full and half Quad-pixel data) can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1GhBEQPSfYuHXvwnpcIAtepU03ONQYUpc?usp=sharing).
 
 ### Evaluate with full Quad-pixel data (Left-Center-Right and Top-Center-Bottom):
 ```Shell
