@@ -117,8 +117,8 @@ class QuadDataset(data.Dataset):
         lrtb_list = torch.from_numpy(lrtb_list).permute(3, 2, 0, 1).float()
         flow = torch.from_numpy(flow).permute(2, 0, 1).float()
 
-        if self.image_set == 'train':
-            lrtb_list = self.randomBright(lrtb_list)
+        # if self.image_set == 'train':
+        #     lrtb_list = self.randomBright(lrtb_list)
         
         if self.img_pad is not None:
             padH, padW = self.img_pad
